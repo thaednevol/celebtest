@@ -16,6 +16,7 @@ Clone the repository and change directory to the folder cloned. To build the app
 The app download all dependencies, make tests and build a Jar. To run the app type
 
 > cd build/libs
+
 > java -jar CelebrityFinder.jar
 
 It should show:
